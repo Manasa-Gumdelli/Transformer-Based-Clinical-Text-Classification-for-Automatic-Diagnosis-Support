@@ -5,7 +5,7 @@ Naive Bayes, TF-IDF + Linear SVM) against a domain-adapted transformer
 (Bio_ClinicalBERT) on the Kaggle Medical Transcriptions dataset
 (`mtsamples.csv`), following `Clinical_Text_Classification_Implementation_Plan.docx`.
 
-**This is a research-only prototype. It predicts the medical specialty
+**This is a research prototype. It predicts the medical specialty
 associated with a transcription's document style and content — it does not
 diagnose disease, and its output must not be used clinically without expert
 human review.** See [Ethics and scope](#ethics-and-scope) below.
