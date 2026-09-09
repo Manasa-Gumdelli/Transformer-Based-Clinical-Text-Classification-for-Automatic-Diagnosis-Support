@@ -1,0 +1,181 @@
+class,rank,feature,weight
+Cardiovascular / Pulmonary,1,exercise,0.4129294225419825
+Cardiovascular / Pulmonary,2,predicted,0.40132547461550794
+Cardiovascular / Pulmonary,3,premature,0.3620499590993122
+Cardiovascular / Pulmonary,4,heart rate,0.34432072560359006
+Cardiovascular / Pulmonary,5,heart,0.31278844952759544
+Cardiovascular / Pulmonary,6,good motion,0.2934598912620577
+Cardiovascular / Pulmonary,7,contractions,0.28319086346223504
+Cardiovascular / Pulmonary,8,valve seen,0.282306137138729
+Cardiovascular / Pulmonary,9,premature ventricular,0.2818616832952151
+Cardiovascular / Pulmonary,10,frequent premature,0.2784872616038597
+Cardiovascular / Pulmonary,11,trigemini,0.2784872616038597
+Cardiovascular / Pulmonary,12,st depression,0.27056699728462386
+Cardiovascular / Pulmonary,13,achieving,0.26523864376443956
+Cardiovascular / Pulmonary,14,target heart,0.26441644777947615
+Cardiovascular / Pulmonary,15,expiratory,0.2507053028058151
+Consult - History and Phy.,1,for consultation,0.6894015307118656
+Consult - History and Phy.,2,consultation,0.6542792721191844
+Consult - History and Phy.,3,mother,0.45341975814077806
+Consult - History and Phy.,4,loculated,0.42895429328802076
+Consult - History and Phy.,5,axis,0.4171246836049211
+Consult - History and Phy.,6,surgical history,0.3553054156687665
+Consult - History and Phy.,7,has been,0.34395870129746764
+Consult - History and Phy.,8,no murmur,0.3408863558372173
+Consult - History and Phy.,9,heent normocephalic,0.3312357099597276
+Consult - History and Phy.,10,last few,0.328092276357354
+Consult - History and Phy.,11,breast,0.32725198940985867
+Consult - History and Phy.,12,history the,0.31873293014871434
+Consult - History and Phy.,13,well child,0.31736107448788425
+Consult - History and Phy.,14,heart disease,0.3148218867040338
+Consult - History and Phy.,15,neck,0.3124260299904515
+Discharge Summary,1,discharge,0.6564087042594738
+Discharge Summary,2,ischa,0.3460675566140957
+Discharge Summary,3,disch,0.3460675566140957
+Discharge Summary,4,schar,0.3456184758458372
+Discharge Summary,5,scha,0.3438379379137008
+Discharge Summary,6,harge,0.34316082667613457
+Discharge Summary,7,charg,0.3427194781048363
+Discharge Summary,8,harg,0.3425985766972163
+Discharge Summary,9,isch,0.30999381152722877
+Discharge Summary,10,summary summary,0.3049162503961814
+Discharge Summary,11,char,0.302354436960274
+Discharge Summary,12,",disc",0.2942937642746799
+Discharge Summary,13,of discharge,0.2927699070216183
+Discharge Summary,14,summary,0.2907567278266763
+Discharge Summary,15,on august,0.27551798546721645
+Gastroenterology,1,rectal bleeding,0.4376464464322873
+Gastroenterology,2,colonoscopy,0.3961586873648484
+Gastroenterology,3,diet,0.31717331424664236
+Gastroenterology,4,colon cancer,0.30430416629157114
+Gastroenterology,5,bilirubin,0.2957731667059099
+Gastroenterology,6,rectal,0.28576784100309216
+Gastroenterology,7,upper endoscopy,0.281685691945674
+Gastroenterology,8,colostomy,0.2810083036744782
+Gastroenterology,9,allergies social,0.27457428851252447
+Gastroenterology,10,bleed,0.27284151782637295
+Gastroenterology,11,gastrointestinal bleed,0.25143153274567825
+Gastroenterology,12, colo,0.2502806123732829
+Gastroenterology,13,nausea and,0.2490652149459275
+Gastroenterology,14,stool,0.24027414034176758
+Gastroenterology,15,bowel,0.24003635991432795
+General Medicine,1,visit weight,0.5643251551406431
+General Medicine,2,evaluation history,0.5070140142828241
+General Medicine,3,ulcer,0.440222090438023
+General Medicine,4,without any,0.37770343636169507
+General Medicine,5,rhinitis,0.3765433949895512
+General Medicine,6,emergency,0.37256618001444564
+General Medicine,7,wound care,0.366990276895382
+General Medicine,8,negative,0.34454670127213993
+General Medicine,9,and throat,0.33438499752067624
+General Medicine,10,illness,0.3321641372467676
+General Medicine,11,was thought,0.3252312792308738
+General Medicine,12,nose,0.31289368785295274
+General Medicine,13,for visit,0.31239117328554744
+General Medicine,14,ears,0.30926117315005963
+General Medicine,15,ive.,0.30773638404262976
+Neurology,1,electroencephalogram,0.37702852665857817
+Neurology,2,gait,0.35269757140809405
+Neurology,3,photic,0.31976939568810253
+Neurology,4,eeg,0.3056856771132171
+Neurology,5,tone,0.3042546892847381
+Neurology,6,sleep,0.29512024654017954
+Neurology,7,left temporal,0.2830465677674456
+Neurology,8,lack,0.27743703509872486
+Neurology,9,lack of,0.27743703509872486
+Neurology,10,independent,0.2695524487999202
+Neurology,11,recording,0.2593892598622566
+Neurology,12,10 20,0.2575725350677826
+Neurology,13,neurological,0.257462085135717
+Neurology,14,memory,0.2541832566769386
+Neurology,15,seizure,0.2540460696116848
+Obstetrics / Gynecology,1,pap,0.5515323217529378
+Obstetrics / Gynecology,2,vaginal,0.41811665522553143
+Obstetrics / Gynecology,3,eclampsia,0.3362750978807612
+Obstetrics / Gynecology,4,pelvic,0.3345328563592495
+Obstetrics / Gynecology,5,pap smear,0.30054865185179586
+Obstetrics / Gynecology,6,pre eclampsia,0.29080403183935316
+Obstetrics / Gynecology,7,cesarean,0.28816641820413796
+Obstetrics / Gynecology,8,smear,0.286296115866659
+Obstetrics / Gynecology,9,vaginal hysterectomy,0.2848829227932552
+Obstetrics / Gynecology,10,total vaginal,0.27874382367108536
+Obstetrics / Gynecology,11,pregnancy,0.2732121664674119
+Obstetrics / Gynecology,12, pap ,0.26355419233656424
+Obstetrics / Gynecology,13,pap ,0.2392792312556882
+Obstetrics / Gynecology,14,day the,0.23283100832907905
+Obstetrics / Gynecology,15,pelvic pain,0.21844594928664696
+Orthopedic,1,int: ,1.1008646262306374
+Orthopedic,2,nt: ,0.6440112671299265
+Orthopedic,3,for evaluation,0.6393618261005497
+Orthopedic,4,present problem,0.6282797918848307
+Orthopedic,5,pain history,0.5862352999141547
+Orthopedic,6,t: ,0.5338399665429535
+Orthopedic,7,evaluation,0.4813320534815537
+Orthopedic,8,complaint left,0.40799087260502476
+Orthopedic,9,pain,0.40404261936163993
+Orthopedic,10,reason for,0.3830906456890415
+Orthopedic,11,knee,0.37307926252706686
+Orthopedic,12,lumbar,0.36390127647569576
+Orthopedic,13,complaint right,0.36261733764571974
+Orthopedic,14,reason,0.36011746954595103
+Orthopedic,15,ice,0.3580076689065988
+Radiology,1,indications,0.901500837292335
+Radiology,2,exam,0.5930519106950237
+Radiology,3,there is,0.5193519537067418
+Radiology,4,images,0.473572908788816
+Radiology,5,are,0.4507780241764979
+Radiology,6,mild,0.43438018904138037
+Radiology,7,xam:,0.40347636167708445
+Radiology,8,exam:,0.40347636167708445
+Radiology,9,fetal,0.3873838420225097
+Radiology,10,findings,0.37412860070444454
+Radiology,11,am:,0.36386775838748286
+Radiology,12,contrast,0.3605840201976015
+Radiology,13,common,0.3281922232735916
+Radiology,14,impression,0.3237350181646186
+Radiology,15,peak,0.2933270047165853
+SOAP / Chart / Progress Notes,1,subjective,0.6637236732359575
+SOAP / Chart / Progress Notes,2,continue,0.6004461658057786
+SOAP / Chart / Progress Notes,3,subjective the,0.5144186583817616
+SOAP / Chart / Progress Notes,4,ive:,0.4781962608497466
+SOAP / Chart / Progress Notes,5,tive:,0.4781962608497466
+SOAP / Chart / Progress Notes,6,ve:,0.4768548975533082
+SOAP / Chart / Progress Notes,7,bject,0.4462792049272104
+SOAP / Chart / Progress Notes,8,bjec,0.4462792049272104
+SOAP / Chart / Progress Notes,9,bje,0.4462792049272104
+SOAP / Chart / Progress Notes,10,visit,0.43842200507504525
+SOAP / Chart / Progress Notes,11,today,0.4227581767733436
+SOAP / Chart / Progress Notes,12,objective,0.39911075222696796
+SOAP / Chart / Progress Notes,13,followup,0.3885965806772003
+SOAP / Chart / Progress Notes,14,night,0.3752918680942679
+SOAP / Chart / Progress Notes,15,ubje,0.36971415673123553
+Surgery,1,indication,0.8512969037537906
+Surgery,2,procedure,0.6001522936863843
+Surgery,3,preoperative diagnosis,0.47291998201360835
+Surgery,4,preoperative,0.46273041139279353
+Surgery,5,the procedure,0.41258261388879164
+Surgery,6,diagnosis,0.3998864173013658
+Surgery,7,were,0.33814915008603086
+Surgery,8,ocedu,0.3212139657211365
+Surgery,9,cedur,0.3212139657211365
+Surgery,10,cedu,0.3212139657211365
+Surgery,11,roced,0.3212139657211365
+Surgery,12,oced,0.3212139657211365
+Surgery,13,edur,0.3212139657211365
+Surgery,14,edure,0.32111873263320917
+Surgery,15,dure,0.3204002229064647
+Urology,1,"int:,",0.8553449758220426
+Urology,2,"nt:, ",0.7289206773480208
+Urology,3,prostate,0.7101982772320521
+Urology,4,bladder,0.702126996682097
+Urology,5,"nt:,",0.6872165928129255
+Urology,6,"t:, ",0.6430747760625772
+Urology,7,penis,0.6192094096057568
+Urology,8,"t:,",0.6066244220696652
+Urology,9,circumcision,0.5560699905705366
+Urology,10,scrotal,0.5317010573718203
+Urology,11, ur,0.510672323945983
+Urology,12,urinary,0.49965576067467493
+Urology,13,penile,0.46866027203756816
+Urology,14,rosta,0.4643417441324291
+Urology,15,prost,0.455814038217774

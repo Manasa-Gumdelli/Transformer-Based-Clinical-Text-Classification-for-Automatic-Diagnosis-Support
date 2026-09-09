@@ -1,0 +1,8 @@
+{
+  "tokenizer": "emilyalsentzer/Bio_ClinicalBERT",
+  "median_tokens": 659.0,
+  "mean_tokens": 743.6873881932022,
+  "pct_exceeding_max_seq_length": 63.46,
+  "max_seq_length": 512,
+  "pct_exceeding_512_hard_limit": 63.46
+}

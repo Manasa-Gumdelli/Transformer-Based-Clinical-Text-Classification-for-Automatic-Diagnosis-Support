@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "strategy": "Exact whitespace-normalised duplicate transcriptions are collapsed to one deterministic majority-labeled record; label ties use the first source-file occurrence among tied labels.",
+  "rows_before_collapse": 3894,
+  "rows_after_collapse": 2236,
+  "duplicate_text_groups": 1573,
+  "conflicting_label_duplicate_groups": 1573,
+  "duplicate_rows_removed": 1658,
+  "rows_in_conflicting_duplicate_groups": 3231
+}

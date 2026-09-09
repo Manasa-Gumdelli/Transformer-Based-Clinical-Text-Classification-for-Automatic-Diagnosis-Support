@@ -1,0 +1,23 @@
+[
+  {
+    "model": "nb",
+    "mean_confidence_correct": 0.9077001523329566,
+    "mean_confidence_incorrect": 0.6435872339273132,
+    "n_correct": 258,
+    "n_incorrect": 62
+  },
+  {
+    "model": "svm",
+    "mean_confidence_correct": 0.3370143068232709,
+    "mean_confidence_incorrect": 0.1893354851867626,
+    "n_correct": 268,
+    "n_incorrect": 52
+  },
+  {
+    "model": "transformer",
+    "mean_confidence_correct": 0.9026982188224792,
+    "mean_confidence_incorrect": 0.6562976837158203,
+    "n_correct": 268,
+    "n_incorrect": 52
+  }
+]

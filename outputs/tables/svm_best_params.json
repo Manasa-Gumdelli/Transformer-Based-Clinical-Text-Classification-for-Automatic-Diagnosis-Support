@@ -1,0 +1,15 @@
+{
+  "model": "svm",
+  "best_params": {
+    "clf__C": 4,
+    "clf__class_weight": "balanced",
+    "tfidf__word__min_df": 2,
+    "tfidf__word__ngram_range": [
+      1,
+      2
+    ]
+  },
+  "best_cv_macro_f1": 0.6453188094280111,
+  "cv_folds": 5,
+  "search_time_seconds": 716.3
+}

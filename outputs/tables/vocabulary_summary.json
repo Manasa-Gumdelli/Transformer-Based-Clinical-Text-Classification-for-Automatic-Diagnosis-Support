@@ -1,0 +1,5 @@
+{
+  "vocabulary_size_min_df2_max_df0.95": 13417,
+  "n_sklearn_english_stopwords": 318,
+  "top_terms_path": "outputs/tables/top_terms.csv"
+}

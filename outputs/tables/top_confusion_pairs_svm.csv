@@ -1,0 +1,6 @@
+true_class,predicted_class,count
+General Medicine,Consult - History and Phy.,10
+Urology,Surgery,7
+Consult - History and Phy.,SOAP / Chart / Progress Notes,3
+Discharge Summary,General Medicine,3
+Neurology,Radiology,3

@@ -1,0 +1,6 @@
+true_class,predicted_class,count
+Urology,Surgery,4
+Consult - History and Phy.,General Medicine,3
+General Medicine,Consult - History and Phy.,3
+Radiology,Neurology,3
+Cardiovascular / Pulmonary,General Medicine,2

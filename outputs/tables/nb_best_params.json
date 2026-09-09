@@ -1,0 +1,15 @@
+{
+  "model": "nb",
+  "best_params": {
+    "clf__alpha": 0.02,
+    "tfidf__max_df": 0.95,
+    "tfidf__min_df": 5,
+    "tfidf__ngram_range": [
+      1,
+      1
+    ]
+  },
+  "best_cv_macro_f1": 0.5648325061212883,
+  "cv_folds": 5,
+  "search_time_seconds": 102.3
+}

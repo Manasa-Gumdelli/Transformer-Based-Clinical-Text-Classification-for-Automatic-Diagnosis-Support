@@ -1,0 +1,14 @@
+{
+  "retrieved_date": "2026-07-07",
+  "source": "Kaggle: Medical Transcriptions (mtsamples.csv)",
+  "licence_note": "Publicly released, de-identified sample medical transcriptions distributed via Kaggle for research/education. No re-identification is attempted. Raw text is excluded from version control and must not be reproduced verbatim in reports.",
+  "n_rows": 4999,
+  "n_columns": 6,
+  "n_distinct_labels": 40,
+  "n_missing_transcription": 33,
+  "n_missing_keywords": 1068,
+  "n_duplicate_transcriptions_involved": 4759,
+  "n_fully_duplicate_rows": 0,
+  "n_classes_ge_100": 12,
+  "n_classes_ge_50": 22
+}

@@ -1,0 +1,6 @@
+true_class,predicted_class,count
+General Medicine,Consult - History and Phy.,8
+Urology,Surgery,5
+SOAP / Chart / Progress Notes,General Medicine,4
+Consult - History and Phy.,SOAP / Chart / Progress Notes,3
+Gastroenterology,Consult - History and Phy.,3

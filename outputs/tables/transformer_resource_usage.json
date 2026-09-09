@@ -1,0 +1,21 @@
+{
+  "model_identifier": "emilyalsentzer/Bio_ClinicalBERT",
+  "retrieved_date": "2026-07-07",
+  "n_parameters": 108319500,
+  "tokenizer": "BertTokenizerFast",
+  "max_seq_length": 512,
+  "chunk_stride": 128,
+  "device": "mps",
+  "train_documents": 1596,
+  "val_documents": 320,
+  "train_chunks": 3376,
+  "val_chunks": 699,
+  "epochs_configured": 5,
+  "epochs_completed": 5.0,
+  "early_stopping_patience": 3,
+  "learning_rate": 2e-05,
+  "batch_size": 8,
+  "training_time_seconds": 2513.4,
+  "best_val_f1_macro": 0.7075747518635237,
+  "final_checkpoint_path": "models/transformer/final_model"
+}
